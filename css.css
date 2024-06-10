@@ -8,9 +8,9 @@ css
 
     }
     .h1{
-        position: fixed;
+        
         width: 500px;
-        text-underline-position: auto;
+        align-content:center;
         
 
     }
